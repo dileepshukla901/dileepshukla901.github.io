@@ -1,16 +1,16 @@
 # Site settings
-title: Dominik Moritz
-email: domoritz@cmu.edu
+title: Dileep Shukla
+email: dileepshukla901@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   Professor at Carnegie Mellon University and Researcher at Apple. I create interactive data visualization and analysis tools. PhD from University of Washington.
+   I build Machine Learning solutions. Master and Bachelor of Technology from Indian Institute of Technology, Kharagpur (IIT Kgp).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.domoritz.de" # the base hostname & protocol for your site
-production_url: "https://www.domoritz.de"
-github_username: domoritz
+url: # the base hostname & protocol for your site
+production_url:
+github_username: dileepshukla901
 permalink: /blog/:year/:month/:title.html
 
 twitter:
-  username: domoritz
+  username: dileepshukla901
 
 sass:
   style: compressed

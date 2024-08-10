@@ -1,11 +1,11 @@
 /* TEAM */
-	Author/Theme: Dominik Moritz
-	Twitter: @domoritz
-	Mastodon: @dom@vis.social
-	From: Pittsburgh, PA
+	Author/Theme: Dileep Shukla
+	Twitter: @dileepshukla901
+	linkedin: linkedin.com/in/dileepshukla901
+	From: New Delhi - India
 
 /* SITE */
-	Language: English / German
+	Language: English
 	Doctype: HTML5
 	IDE: Sublime Text, VIM, VSCode
 	Software: Jekyll

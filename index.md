@@ -4,34 +4,33 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Dileep Shukla
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a professor at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I'm a Lead Machine Learning Engineer providing consultancy for data-driven business solutions and managing end-to-end machine learning projects. I design and build data visualization, train, test & deploy ML & AI models for complex business problems across cloud and in-house infrastructures, utilizing both microservice and monolithic architectures.
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+In my previous role as a Lead ML Engineer at [Sprinklr](https://www.sprinklr.com/), I led a team of engineers and data scientists, focusing on Voice AI services such as TTS, ASR and Voice Analytics. Additionally, I worked on Reinforcement Learning problems for real time ads dynamic content optimizations, text-based models for insights, classification, and NER tasks, delivering impactful solutions that addressed critical business needs.
 
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
+  <source srcset='/images/dileepshukla.webp' type='image/webp' />
   <img
-    src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'>
+    src='/images/dileepshukla.jpg'
+    alt='Dileep Shukla'>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2504B
 </div>
 
 </div>
+I received my Master’s and Bachelor of Technology degrees from [IIT Kharagpur](https://www.iitkgp.ac.in/), majoring in Electrical Engineering.
 
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
+During my college years, I interned at [DSP Investment Managers](https://www.dspim.com/), where I worked on customer churn prediction models. At [Times Internet](https://timesinternet.in/), I built Recommendation system for [Dineout](https://www.dineout.co.in). Details are in my [CV]({{ "/cv/" | relative_url }}).
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
@@ -49,7 +48,7 @@ During my first year at UW, I received support from the [Fulbright program](http
   Show More Projects
 </a>
 
-## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
+<!-- ## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
 
 <div class="featured-publications">
   {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
@@ -68,4 +67,4 @@ During my first year at UW, I received support from the [Fulbright program](http
 <a href="{{ "/publications/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
   Show All Publications
-</a>
+</a> -->
