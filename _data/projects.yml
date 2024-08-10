@@ -34,8 +34,8 @@
 
 - title: Spell Checker
   url:
-  code: https://github.com/dileepshukla901
-  paper:
+  code: https://github.com/dileepshukla901/spellChecker
+  paper: https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36180.pdf
   demo:
   recording:
   image: spell.png
