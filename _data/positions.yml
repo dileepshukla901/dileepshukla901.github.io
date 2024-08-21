@@ -2,46 +2,43 @@
   years: 2024-present
   company: Gunina ARS Consulting
   location: Remote
-  description: Working on variety of projects across recommendations, ARM, LLMs
-  short_desc: "Recommendations, LLM, RAG"
+  description: Working on variety of projects across recommendations, reinforcement learning, LLMs and RAG
+  # short_desc: "Recommendations, LLM, RAG"
   skills:
-    - Freelancing
     - Recommendation
     - LLM
     - RAG
 - title: Senior Data Scientist
   years: 2024-2024
   company: Reltio
-  location: Remote
-  description: Worked on Master Data Management, LLM and RAG Based Solutions
-  short_desc: "Master Data Management, LLM, RAG"
+  location: Bengaluru
+  description: Worked on Master Data Management, LLM and RAG Based Solutions for chatbots and search engines
+  # short_desc: "Master Data Management, LLM, RAG"
   skills:
-    - Team Management
     - Data Engineerig
-    - LLM
     - Prompt Engineering
     - OpenAI
+    - Dialogflow
 - title: Lead ML Engineer
   years: 2023-2024
   company: Sprinklr Inc.
-  location: Gurugram, Haryana, IN
-  description: Lead a team of engineers and data scientists, working on voice ai applications and reinforcement learning.
-  short_desc: "Team Management, Voice AI & Reinforcement Learning"
+  location: Gurugram
+  description: Lead a team of engineers and data scientists, working on voice ai applications for voicebots and reinforcement learning projects for marketing team.
+  # short_desc: "Team Management, Voice AI & Reinforcement Learning"
   skills:
     - Team Management
     - RL
-    - Grafana
-    - Prometheus
+    - Microservices
+    - Voice AI
 - title: Senior ML Engineer
   years: 2022-2023
   company: Sprinklr Inc.
-  location: Gurugram, Haryana, IN
+  location: Gurugram
   description: built state of the art text-to-speech applications using microservices for voice bots.
-  short_desc: "Text to Speech & Automated Speech Recognition"
+  # short_desc: "Text to Speech & Automated Speech Recognition"
   skills:
     - TTS
     - ASR
-    - Tensorflow
     - PyTorch
     - NVIDIA Triton
     - ONXX
@@ -49,9 +46,9 @@
 - title: Machine Learning Engineer
   years: 2020-2022
   company: Sprinklr Inc.
-  location: Gurugram, Haryana, IN
-  description: Worked across various solutions across text and voice.
-  short_desc: "NER, Classifications, Microservices"
+  location: Gurugram
+  description: Worked across various solutions in text and voice domain.
+  # short_desc: "NER, Classifications, Microservices"
   skills:
     - Machine Learning
     - Python
@@ -63,45 +60,41 @@
   years: 2019
   company: DSP Investment Managers Pvt. Ltd.
   group: business technology
-  location: Mumbai, Maharastra, IN
+  location: Mumbai
   mentors:
     - Joydeep Dasgupta
-  short_desc: worked on customer churn prediction models
-  description: In collaboration with the business tech team, we developed customer churn prediction models for mutual fund business.
+  # short_desc: worked on customer churn prediction models
+  description: In collaboration with the business tech team, developed customer churn prediction models for mutual fund business.
   skills:
     - Churn Prediction
     - Data Analytics
-    - Visualization
+    - Visualization / EDA
 - title: Data Science Intern
   years: 2017
   company: Times Internet Ltd.
   group: dineout
-  location: Noida, Uttar Pradesh, IN
+  location: Noida
   mentors:
     - Ankur Sinha
-  short_desc: worked on restaurent recommendation engine for dineout customers
-  description: created recommendation engines based on item-item and user item interection using MF methods
+  # short_desc: worked on restaurent recommendation engine for dineout customers
+  description: created recommendation engines based on item-item and user item interection using matrix factorization methods
   skills:
     - Recommendation Engines
-    - Matrix Factorization
-    - Collaborative Filtering
 - title: Masters's Thesis
   years: 2019-2020
   company: Indian Institute fo Technology, Kharagpur
-  location: Kharagpur, WB, IN
+  location: Kharagpur, WB
   description: 
   group: postgrad
   mentors:
     - Prof. Aurobinda Routray
   skills:
-    - Programming
-    - ML
     - Signal Processing
-    - Python
+    - C++
 - title: Bachelor's Project
   years: 2018-2019
   company: Indian Institute fo Technology, Kharagpur
-  location: Kharagpur, WB, IN
+  location: Kharagpur, WB
   description: 
   group: grad
   mentors:
@@ -110,4 +103,3 @@
     - Legacy code
     - Visualization
     - Complex algorithms
-    - Python
